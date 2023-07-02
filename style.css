@@ -1,14 +1,18 @@
 h1{
     color: red;
+    background-color: yellow;
 }
 h2 {
     color: blue;
+    background-color: yellowgreen;
 }
 h3{
     color: blueviolet;
+    background-color: burlywood;
 }
 h4{
     color: brown;
+    background-color: green
 }
 p{
     font-style: italic;
